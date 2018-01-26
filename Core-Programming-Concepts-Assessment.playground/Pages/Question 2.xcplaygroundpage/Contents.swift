@@ -24,7 +24,16 @@
  
  */
 // Answer question 2 below
-
+let bookName = "A long Way gone"
+print("Used constant because the book name does not change")
+var copiesSold = 64000
+print("number of sold copies can change")
+let authorName = "Ishmael Beah"
+print("Used constant because the authors name does not change")
+let sellingPrice = 24
+print("Used constant because selling price does not change")
+let yearPublished = 1999
+print("Used constant because the year published does not change")
 /*:
  ## Now share your understanding
  
