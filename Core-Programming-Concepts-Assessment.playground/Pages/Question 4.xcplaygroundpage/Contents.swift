@@ -23,7 +23,14 @@
  
  */
 // Answer question 4 below
-
+let numberOfApps = Int(1)
+print("Used Int value because there is no 0.5 of an app")
+let hoursOfScreenUse = Double(2.5)
+print("Used Double because there are decimals to represent minuites (1.5 hrs, 2.4 hrs)")
+let mostPopularApp = String("Yellow Cheese Wagon")
+print("Used String because there are words not numbers")
+let date = String("Thursday, January 18, 2018")
+print("Used string because there are worlds and letters, not numbers representing date")
 /*:
  ## Now share your understanding
  
