@@ -22,7 +22,7 @@ import Foundation
 
 // Revise code below to answer question 1
 let tc : Double = 20
-let tf = tc * 9 / 5 + 32
+let tf = temperatureInCelcius * 9 / 5 + 32
 print("A temperature in degrees Celsius of \(tc) is equal to \(tf) in degrees Fahrenheit.")
 
 /*:
